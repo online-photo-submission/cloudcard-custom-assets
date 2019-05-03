@@ -144,6 +144,10 @@ table td {
     background: #115740;
 }
 
+#email-templates-link {
+    display: unset !important;
+}
+
 /* Uncomment this block if the organization has a Plus Account.
 img.photos--preview {
     border-bottom: 0px;
